@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "",
+    "more": "The network includes 50,000 followers of 5 twitter media accounts: N1, RTS, Danas, Kurir and Informer, 10, 000 for each. Nodes are colored based on the number of media accounts that they are following: 1-green (69.57%), 2-purple (23.9%), 3-yellow (4.71%), 4-orange (1.35%), 5- light red (0.43%). The vast majority of users in the sample follows only one account. Of those 23.93 % following two accounts, the majority follows N1 and Danas (8.9%) and Informer and Kurir (7.3%). These results suggest a clear polarization of tweeter users with regards to their news consumption habits on Twitter.",
     "intro": "",
     "title": "Network of followers of selected Serbian media"
   },
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "straight",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -41,9 +41,9 @@
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minEdgeSize": 0.02,
+      "minNodeSize": 0.5,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
